@@ -5,15 +5,15 @@ import Filter from "./Filter";
 const App = () => {
   const [movies] = useState([
     {
-      title: "Film 2",
-      description: "Description du film 2",
+      title: "Film 1",
+      description: "Description du film 1",
       posterURL:
         "https://www.cinehorizons.net/sites/default/files/affiches/1101829632-babylon.jpg",
       rating: 3.8,
     },
     {
-      title: "Film 1",
-      description: "Description du film 1",
+      title: "Film 2",
+      description: "Description du film 2",
       posterURL:
         "https://toutelaculture.com/wp-content/uploads/2023/01/affiche-Babylone-680x924.webp",
       rating: 4.5,
